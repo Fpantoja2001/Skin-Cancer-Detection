@@ -1,10 +1,10 @@
 import React from 'react';
-import './App.css';
+import ReactDOM from 'react-dom/client';
 
 function App() {
   return (
     <div className="App">
-      HELLO
+      HELLO HI
     </div>
   );
 }
